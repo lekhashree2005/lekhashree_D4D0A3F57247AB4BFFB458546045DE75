@@ -8,4 +8,4 @@ year=int(input("Enter the year:"))
 if leap_year(year):
   print("{} is a leap year ".format(year))
 else:
-  print("{} is not a leap year".format(year))1111111111111111111111
+  print("{} is not a leap year".format(year))
